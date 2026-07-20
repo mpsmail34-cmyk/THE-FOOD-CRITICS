@@ -1,0 +1,8 @@
+{
+  "name": "Smart BMI Health Assessment & Personalized Wellness Platform",
+  "description": "An AI-powered health platform calculating BMI, BMR, TDEE, and generating comprehensive health, diet, and exercise reports, with a built-in interactive dashboard and Software Product Development Report viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
